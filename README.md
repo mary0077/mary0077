@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
 
-![mary0077 GitHub stats](https://github-readme-stats.vercel.app/api?username=mary0077&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary0077&layout=donut)](https://github.com/mary0077/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
