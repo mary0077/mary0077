@@ -22,4 +22,4 @@
 </div></br>
 
 
-Apaixonada pelo conhecer, aprender e quando junta tudo isso com tecnologia... é só sucesso!
+Apaixonada pela tech *.*
