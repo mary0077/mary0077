@@ -1,5 +1,18 @@
 
 ### Olá! Eu sou a Mariana Gomes 👋
+## Técnica em Informática para Internet 
+(Sistemas Web), e atualmente curso 
+superior em Análise e Desenvolvimento de 
+Sistemas. Estou participando do bootcamp
+da ONG Generation Brasil, como pessoa 
+desenvolvedora AWS/Cloud. Tenho 
+experiência como Freelancer 
+desenvolvendo vários projetos. Possuo 
+conhecimentos em FrontEnd e BackEnd e 
+estou disponível para aprender novas 
+linguagens de programação e/ou
+ferramentas que forem essências para 
+empresa.
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-gomes-0a9a87109/)
