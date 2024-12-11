@@ -15,7 +15,7 @@ ferramentas.
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianagomes26/)
-![Porfolio](https://img.shields.io/badge/Porfolio-D14836?style=for-the-badge&logo=porfolio&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Porfolio-D14836?style=for-the-badge&logo=porfolio&logoColor=white)](https://mary0077.github.io/MarianaGomes/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary0077&show_icons=true&theme=radical)
