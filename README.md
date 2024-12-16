@@ -18,7 +18,7 @@ ferramentas.
 [![Portfolio](https://img.shields.io/badge/Porfolio-D14836?style=for-the-badge&logo=porfolio&logoColor=white)](https://mary0077.github.io/MarianaGomes/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary0077&show_icons=true&theme=radical)
+![testar](https://github.com/user-attachments/assets/b096b2f5-7dfa-4702-a5da-c7f58b453113)
 
 ## Tecnologias que uso no meu dia
 
