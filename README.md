@@ -13,9 +13,9 @@ estou disponível para aprender novas
 linguagens de programação e/ou
 ferramentas.
 
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianagomes26/)
 [![Portfolio](https://img.shields.io/badge/Porfolio-D14836?style=for-the-badge&logo=porfolio&logoColor=white)](https://mary0077.github.io/MarianaGomes/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianagomes26/)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
 ![testar](https://github.com/user-attachments/assets/b096b2f5-7dfa-4702-a5da-c7f58b453113)
