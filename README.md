@@ -5,12 +5,12 @@ Técnica em Informática para Internet
 superior em Análise e Desenvolvimento de 
 Sistemas. Estou participando do bootcamp
 da ONG Generation Brasil, como pessoa 
-desenvolvedora AWS/Cloud. Tenho 
+desenvolvedora Cloud e com parceria da AWS. Tenho 
 experiência como Freelancer 
-desenvolvendo vários projetos, alguns deles você consegue encontrar aqui. Possuo 
+desenvolvendo vários projetos, tanto como Desenvolvedora Web FrontEnd quanto Desenvolvedora Web FullStack. Possuo 
 conhecimentos em FrontEnd e BackEnd, e 
-estou disponível para aprender novas 
-linguagens de programação e/ou
+estou sempre aprendendo novas 
+linguagens de programação e
 ferramentas.
 
 [![Portfolio](https://img.shields.io/badge/Porfolio-D14836?style=for-the-badge&logo=porfolio&logoColor=white)](https://mary0077.github.io/MarianaGomes/)
