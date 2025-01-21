@@ -42,7 +42,9 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
 
 ---
 
-## 💬 Sobre mim:  
+## 💬 Sobre mim  
 
-✨ Apaixonada por desafios e por aprender coisas novas todos os dias.  
-🚀 Gratidão por fazer parte da área tech!
+✨ Sou movida pela curiosidade e pela vontade de superar desafios diariamente.  
+🎯 Minha missão é aprender, crescer e transformar ideias em soluções práticas.  
+🚀 Tenho orgulho de fazer parte da área tech, onde posso inovar e contribuir para um mundo mais conectado e eficiente.  
+🌱 Acredito que a tecnologia tem o poder de transformar vidas, e me dedico a crescer continuamente como profissional e como pessoa.  
