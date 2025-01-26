@@ -1,5 +1,4 @@
-# 🌟 Olá! Eu sou a Mariana Gomes 👋  
-## Desenvolvedora Web FullStack
+# 🌟 Olá! Eu sou a Mariana Gomes👋  
 
 Sou Técnica em Informática para Internet (Sistemas Web) e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
 Participo do **bootcamp da ONG Generation Brasil** como Pessoa Desenvolvedora Cloud em parceria com a AWS.  
