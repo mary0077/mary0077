@@ -20,9 +20,7 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
   <a href="https://github.com/mary0077" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://web.telegram.org/k/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+ 
 </p>  
 
 ---
