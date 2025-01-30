@@ -25,20 +25,36 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
 
 ---
 
+## 📌 Minha Trajetória  
+
+- 🏫 **Ensino Médio**: Atuei como monitora de Robótica e Física.  
+- 🎓 **Formação Técnica**: Me formei como Técnica em Logística.  
+- 🏦 **Experiência Bancária**: Trabalhei em uma empresa terceirizada prestando serviços bancários para o **Banco Itaú**.  
+- ⚽ **Futebol Profissional**: Joguei futebol profissionalmente.  
+- 📱 **Marketing Digital**: Atuei como gestora de mídias sociais para uma loja de roupas.  
+- 💻 **Área Tech**: Concluí o curso técnico de **Informática para Internet (Sistemas Web)** no **Instituto Federal de Pernambuco**.  
+- 🎓 **Ensino Superior**: Atualmente, estou no **3º período do curso de Análise e Desenvolvimento de Sistemas**.  
+
+---
+
 ## 🚀 Tecnologias que uso no dia a dia:  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60px" style="margin: 10px;"/>
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60px" style="margin: 10px;"/>
+</p>
 
 ---
+
 
 ## 💬 Sobre mim  
 
