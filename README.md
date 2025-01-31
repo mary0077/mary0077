@@ -37,7 +37,7 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia:  
+## 🚀 Tecnologias que uso no dia a dia 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60px" style="margin: 10px;"/>
