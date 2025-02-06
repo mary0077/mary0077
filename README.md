@@ -25,7 +25,7 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
 
 ---
 
-## 📌 Minha Trajetória  
+## 📌 Minha Trajetória & Curiosidades
 
 - 🏫 **Ensino Médio**: Atuei como monitora de Robótica e Física.  
 - 🎓 **Formação Técnica**: Me formei como Técnica em Logística.  
