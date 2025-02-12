@@ -1,7 +1,7 @@
 # 🌟 Olá! Tudo bem? Eu sou a Mariana Gomes👋  
 
 Sou Técnica em Informática para Internet (Sistemas Web) e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
-Participo do **bootcamp da ONG Generation Brasil** como Pessoa Desenvolvedora Cloud em parceria com a AWS.  
+Participei do **bootcamp da ONG Generation Brasil** como Pessoa Desenvolvedora Cloud com a parceria da AWS.
 
 💻 Tenho experiência como **Freelancer**, desenvolvendo projetos como **Desenvolvedora Web FrontEnd** e **FullStack**.  
 Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse em conversar, entre em contato!  
