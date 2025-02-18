@@ -1,4 +1,4 @@
-# 🌟 Olá! Tudo bem? Eu sou a Mariana Gomes👋  
+# 🌟 Olá! Eu sou a Mariana Gomes👋  
 
 Sou Técnica em Informática para Internet (Sistemas Web) e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
 Participei do **bootcamp da ONG Generation Brasil** como Pessoa Desenvolvedora Cloud em parceria com a AWS.
