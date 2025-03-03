@@ -33,7 +33,7 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
 - ⚽ **Futebol Profissional**: Joguei futebol profissionalmente.  
 - 📱 **Marketing Digital**: Atuei como gestora de mídias sociais para uma loja de roupas.  
 - 💻 **Área Tech**: Concluí o curso técnico de **Informática para Internet (Sistemas Web)** no **Instituto Federal de Pernambuco**.  
-- 🎓 **Ensino Superior**: Atualmente, estou no **3º período do curso de Análise e Desenvolvimento de Sistemas**.  
+- 🎓 **Ensino Superior**: Atualmente, estou no **2º período do curso de Análise e Desenvolvimento de Sistemas**.  
 
 ---
 
