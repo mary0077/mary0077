@@ -8,7 +8,7 @@ Sinta-se à vontade para explorar meu GitHub, e se tiver dúvidas ou interesse e
 
 ---
 
-## 🌐 Conecte-se comigo 
+## 🌐 Se conecte comigo!
 
 <p align="center">
   <a href="https://mary0077.github.io/MarianaGomes/" target="_blank">
