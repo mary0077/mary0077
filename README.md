@@ -1,7 +1,7 @@
 # 🌟 Olá! Eu sou a Mariana 👋  
 
 Sou Técnica em Informática para Internet (Sistemas Web) e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
-Participei do **BOOTCAMP da ONG Generation Brasil** como Pessoa Desenvolvedora Cloud em parceria com a AWS.
+Possuo conhecimentos em desenvolvimento Cloud como, AWS e Digital Ocean.
 
 💻 Tenho experiência como **Freelancer**, desenvolvendo projetos como **Desenvolvedora Web FrontEnd** e **FullStack**.  
 Sinta-se à vontade para explorar meu GitHub!
