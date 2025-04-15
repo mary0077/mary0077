@@ -1,4 +1,4 @@
-# 🌟 Olá! Eu sou a Mariana 👋  
+# 🌟 Olá! Eu sou a Mariana Gomes 👋  
 
 Sou Técnica em Informática para Internet (Sistemas Web) e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
 Possuo conhecimentos em desenvolvimento Cloud como, AWS e Digital Ocean.
