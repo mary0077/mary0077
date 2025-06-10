@@ -56,7 +56,7 @@ Sinta-se à vontade para explorar meu GitHub!
 ---
 
 
-## 💬 Sobre mim :) 
+## 💬 Sobre mim
 
 ✨ Sou movida pela curiosidade e pela vontade de superar desafios diariamente.  
 🎯 Minha missão é aprender, crescer e transformar ideias em soluções práticas.  
