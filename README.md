@@ -8,7 +8,7 @@ Feel free to explore my GitHub!
 
 ---
 
-## 🌐 Se conecte comigo!
+## 🌐 Connect with me!
 
 <p align="center">
   <a href="https://mary0077.github.io/MarianaGomes/" target="_blank">
