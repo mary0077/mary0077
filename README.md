@@ -59,6 +59,9 @@ Feel free to explore my GitHub!
 ## 💬 About Me
 
 ✨ I'm driven by curiosity and the desire to overcome challenges daily.
+
 🎯 My mission is to learn, grow, and transform ideas into practical solutions.
+
 🚀 I'm proud to be part of the tech industry, where I can innovate and contribute to a more connected and efficient world.
+
 🌱 I believe that technology has the power to transform lives, and I'm dedicated to continuous growth as a professional and as a person.
