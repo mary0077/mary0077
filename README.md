@@ -25,15 +25,15 @@ Feel free to explore my GitHub!
 
 ---
 
-## 📌 Minha Trajetória & Curiosidades
+## 📌 My Journey & Fun Facts
 
-- 🏫 **Ensino Médio**: Atuei como monitora de Robótica e Física.  
-- 🎓 **Formação Técnica**: Me formei como Técnica em Logística.  
-- 🏦 **Experiência Bancária**: Trabalhei em uma empresa terceirizada prestando serviços bancários para o **Banco Itaú**.  
-- ⚽ **Futebol Profissional**: Joguei futebol profissionalmente.  
-- 📱 **Marketing Digital**: Atuei como gestora de mídias sociais para uma loja de roupas.  
-- 💻 **Área Tech**: Concluí o curso técnico de **Informática para Internet (Sistemas Web)** no **Instituto Federal de Pernambuco**.  
-- 🎓 **Ensino Superior**: Atualmente, estou no **2º período do curso de Análise e Desenvolvimento de Sistemas**.  
+- 🏫 **High School**: I worked as a Robotics and Physics tutor.
+- 🎓 **Technical Education**: I graduated as a Logistics Technician.
+- 🏦 **Banking Experience**: I worked at a third-party company providing banking services for **Banco Itaú**.
+- ⚽ **Professional Soccer**: I played soccer professionally.
+- 📱 **Digital Marketing**: I worked as a social media manager for a clothing store.
+- 💻 **Tech Area**: I completed the technical course in **Computer Science for the Internet (Web Systems)** at the **Federal Institute of Pernambuco**.
+- 🎓 **Higher Education**: I am currently in the **2nd semester of the Systems Analysis and Development course**.
 
 ---
 
