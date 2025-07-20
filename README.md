@@ -1,10 +1,10 @@
-# 🌟 Olá! Eu sou a Mariana Gomes 👋  
+# 🌟 Hi! I'm Mariana Gomes 👋
 
-Sou Técnica em Informática para Internet (Sistemas Web) e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
-Possuo conhecimentos em desenvolvimento Cloud como, AWS e Digital Ocean.
+I'm a Computer Technician for the Internet (Web Systems) and currently studying **Systems Analysis and Development**.
+I have expertise in cloud development such as AWS and Digital Ocean.
 
-💻 Tenho experiência como **Freelancer**, desenvolvendo projetos como **Desenvolvedora Web FrontEnd** e **FullStack**.  
-Sinta-se à vontade para explorar meu GitHub!
+💻 I have experience as a **Freelancer**, developing projects as a **FrontEnd** and **FullStack** Web Developer.
+Feel free to explore my GitHub!
 
 ---
 
