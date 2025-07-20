@@ -1,4 +1,4 @@
-# 🌟 Hi! I'm Mariana Gomes 👋
+# 🌟 Hi! I'm Mariana Gomes 🇧🇷👋
 
 I'm a Computer Technician for the Internet (Web Systems) and currently studying **Systems Analysis and Development**.
 I have expertise in cloud development such as AWS and Digital Ocean.
