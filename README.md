@@ -56,9 +56,9 @@ Feel free to explore my GitHub!
 ---
 
 
-## 💬 Sobre mim
+## 💬 About Me
 
-✨ Sou movida pela curiosidade e pela vontade de superar desafios diariamente.  
-🎯 Minha missão é aprender, crescer e transformar ideias em soluções práticas.  
-🚀 Tenho orgulho de fazer parte da área tech, onde posso inovar e contribuir para um mundo mais conectado e eficiente.  
-🌱 Acredito que a tecnologia tem o poder de transformar vidas, e me dedico a crescer continuamente como profissional e como pessoa.  
+✨ I'm driven by curiosity and the desire to overcome challenges daily.
+🎯 My mission is to learn, grow, and transform ideas into practical solutions.
+🚀 I'm proud to be part of the tech industry, where I can innovate and contribute to a more connected and efficient world.
+🌱 I believe that technology has the power to transform lives, and I'm dedicated to continuous growth as a professional and as a person.
